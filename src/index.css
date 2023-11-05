@@ -1,4 +1,4 @@
-@import 'modern-normalize/modern-normalize.css';
+@import "modern-normalize/modern-normalize.css";
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -11,14 +11,30 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 
-  --primary-color: #5754F9;
-  --accent-color: #F44599;
-  --success-color: #20D287;
-  --danger-color: #FF4259;
+  --primary-color: #5754f9;
+  --accent-color: #f44599;
+  --success-color: #20d287;
+  --danger-color: #ff4259;
 }
 
 .container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 1rem;
+}
+
+.primary {
+  background-color: var(--primary-color);
+}
+
+.accent {
+  background-color: var(--accent-color);
+}
+
+.success {
+  background-color: var(--success-color);
+}
+
+.danger {
+  background-color: var(--danger-color);
 }

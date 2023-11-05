@@ -1,6 +1,6 @@
-import styles from './AppHeader.module.css'
-import logo from '../../assets/quickbutik-full-color.svg'
-import classNames from 'classnames'
+import styles from "./AppHeader.module.css";
+import logo from "../../assets/quickbutik-full-color.svg";
+import classNames from "classnames";
 
 export interface AppHeaderProps {}
 
@@ -11,5 +11,5 @@ export function AppHeader({}: AppHeaderProps) {
         <img alt="Quickbutik logo" src={logo} className={styles.logo} />
       </div>
     </header>
-  )
+  );
 }
