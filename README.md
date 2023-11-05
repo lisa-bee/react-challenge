@@ -36,10 +36,10 @@ Det är din första dag på Quickbutik och du har just blivit ägare av detta re
     - Knapp (**din egna knapp-komponent**) för att gå till ordern (_När man trycker på knappen ska en alert med ordernummer visas_)
 - Svara på följande frågor:
   - Vad hade du gjort (extra?, annorlunda?) om du hade fått mycket mer tid?
-  - Jag hade lagt tid på att styla komponenterna ordentligt. Satt upp fler återanvändbara css klasser alternativt migrerat till styled-components som jag gillar att jobba med.
-  - Fixat till AppHeader.
-  - Brutit ut utils-funktioner till tex en utils fil.
-  - Förmodligen använt någon form av state management för att hantera data.
+    - Jag hade lagt tid på att styla komponenterna ordentligt. Satt upp fler återanvändbara css klasser alternativt migrerat till styled-components som jag gillar att jobba med.
+    - Fixat till AppHeader.
+    - Brutit ut utils-funktioner till tex en utils fil.
+    - Förmodligen använt någon form av state management för att hantera data.
 
 ## När du är klar
 
