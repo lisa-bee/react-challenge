@@ -13,7 +13,7 @@ Det är din första dag på Quickbutik och du har just blivit ägare av detta re
 ## Installation
 
 1. Installera dependencies med valfri package manager (npm, yarn, pnpm)
-2. Starta projektet med `dev` scriptet (ex: npm run dev)
+2. Starta projektet med `yarn dev`
 3. Öppna projektet i din webbläsare på [http://localhost:5173/](http://localhost:5173/)
 
 ## Mål
