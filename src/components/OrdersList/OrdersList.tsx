@@ -21,7 +21,7 @@ export function OrdersList() {
     }
 
     fetchOrders();
-  }, []);
+  });
 
   const totalProducts = (products: ApiOrderItem[]) => {
     const totalQuantity = products.reduce(
